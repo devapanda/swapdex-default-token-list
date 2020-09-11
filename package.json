@@ -9,7 +9,7 @@
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/uniswap-default.tokenlist.json"
+    "build/swapdex-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
